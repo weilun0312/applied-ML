@@ -1,5 +1,3 @@
-# clarku-assignment1
+# Assignment for machine learning
 
-Please refer to the updated template in this repo. 
-
-Filename: [template.md](https://github.com/barnysanchez/clarku-assignment1/blob/master/template.md)
+My name is Alan
